@@ -35,7 +35,7 @@ cse-twin
 
 ## How It Works
 
-<img width="2816" height="1536" alt="A venn diagram visualising the branching logic" src="https://github.com/user-attachments/assets/f99a3c5a-66bc-49cd-b128-166c6521a845" />
+<img width="1221" height="666" alt="image" src="https://github.com/user-attachments/assets/72ff9a06-1fe1-433b-8f18-ed3d49334929" />
 A venn diagram visualising the branching logic
 ---
 The quiz uses a branching logic system where:
