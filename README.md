@@ -35,6 +35,9 @@ cse-twin
 
 ## How It Works
 
+<img width="2816" height="1536" alt="A venn diagram visualising the branching logic" src="https://github.com/user-attachments/assets/f99a3c5a-66bc-49cd-b128-166c6521a845" />
+A venn diagram visualising the branching logic
+---
 The quiz uses a branching logic system where:
 
 1. Each answer leads to a specific next question
